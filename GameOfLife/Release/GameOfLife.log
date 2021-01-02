@@ -1,0 +1,45 @@
+﻿  Grid.cpp
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(6,90): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(6,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(72,35): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Grid.cpp(74,35): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Source.cpp
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(15,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(85,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(86,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(92,54): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(93,55): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(112,16): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameOfLife.vcxproj -> D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\Release\GameOfLife.exe
