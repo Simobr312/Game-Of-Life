@@ -93,7 +93,7 @@ void PollEvents(sf::RenderWindow& window, sf::View& view) {
 			if (e.key.code == sf::Keyboard::Right)	maxdt -= 0.9;
 
 			maxdt = std::max(std::min(maxdt, 1.f), 0.01f);
-			std::cout << maxdt << std::endl;
+			
 
 			break;
 		default: break;
