@@ -1,8 +1,8 @@
 ﻿  Source.cpp
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(15,18): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(85,45): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(86,50): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(92,54): warning C4305: '+=': truncation from 'double' to 'float'
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(93,55): warning C4305: '-=': truncation from 'double' to 'float'
-D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\GameOfLife\Source.cpp(112,16): warning C4305: '+=': truncation from 'double' to 'float'
-  GameOfLife.vcxproj -> D:\ACCESSO RAPIDO\Informatica\OpenGL\GameOfLife\Debug\GameOfLife.exe
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(15,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(85,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(86,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(92,54): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(93,55): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\GameOfLife\Source.cpp(113,16): warning C4305: '+=': truncation from 'double' to 'float'
+  GameOfLife.vcxproj -> D:\ACCESSO RAPIDO\Informatica\OpenGL\Game-Of-Life\Debug\GameOfLife.exe
